@@ -11,7 +11,7 @@ a {
 
 }
 
-a:focus {
+a:hover {
     text-decoration: underline;
 }
 em {
@@ -54,6 +54,13 @@ h2 {
 
 }
 
+
+.cta:hover {
+
+    background: linear-gradient(#696484, #8788ba);
+    text-decoration:none;
+}
+
   
 
 
@@ -61,3 +68,9 @@ h2 {
     border-right:solid #8e86b5;
     border-bottom:solid #8e86b5;
 }
+
+.logo:hover {
+    opacity: 0.5;
+
+}
+
