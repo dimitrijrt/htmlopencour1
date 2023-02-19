@@ -1,0 +1,63 @@
+h1 {
+    color: blue;
+    font-family: 'Montserrat', sans-serif;
+}
+
+a {
+    color: #242424;
+    font-size: 1em;
+    font-family: 'Manrope', sans-serif;
+    text-decoration: none;
+
+}
+
+a:focus {
+    text-decoration: underline;
+}
+em {
+    color: #a5b4fc;
+    font-style: normal;
+  }
+
+
+p {
+    font-family: 'Manrope', sans-serif;
+    font-size: 1.1em;
+    color: #F9F8FF;
+    background-color: #1F2039;
+
+
+}
+
+li {
+    font-size: 1em;
+    font-family: 'Manrope', sans-serif;
+    color: #F9F8FF;
+    background-color: #1F2039;
+
+}
+
+h2 {
+
+    color: #F9F8FF;
+    background-color: #1F2039;
+}
+
+.mid {
+    background-color: #1F2039 ;
+}
+
+.cta {
+    border-radius: 50px;
+    background: linear-gradient(#8e86b5, #acaeed);
+    color: white;
+
+}
+
+  
+
+
+.para {
+    border-right:solid #8e86b5;
+    border-bottom:solid #8e86b5;
+}
